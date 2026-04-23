@@ -13,8 +13,8 @@
 ## 数据来源
 
 ### Telegram 频道
-- **频道名称**: 免费高速订阅节点
-- **频道 ID**: 1914963500
+- **频道名称**: xxxx
+- **频道 ID**: xxxxxx
 
 ### Snippet 文件
 - 可从 GitHub 或其他来源获取合并节点列表
@@ -41,7 +41,7 @@
 
 ## 本地保存路径
 
-- `~/.hermes/pools/available.json`
+- `/pools/available.json`
 
 ## 许可证
 
