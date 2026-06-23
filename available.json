@@ -28,11 +28,3 @@ vless://47072f01-8e77-4136-8e85-b0f0d9d08f1d@us002.421421.xyz:20230?type=grpc&en
 trojan://47072f01-8e77-4136-8e85-b0f0d9d08f1d@sg007.421421.xyz:20230?allowInsecure=1&peer=www.alibaba.com&sni=www.alibaba.com&type=ws#%E6%96%B0%E5%8A%A0%E5%9D%A107%7C%E6%B5%81%E5%AA%92%E4%BD%93
 trojan://47072f01-8e77-4136-8e85-b0f0d9d08f1d@sg008.421421.xyz:20230?allowInsecure=1&peer=www.alibaba.com&sni=www.alibaba.com&type=ws#%E6%96%B0%E5%8A%A0%E5%9D%A108%7C%E6%B5%81%E5%AA%92%E4%BD%93
 trojan://47072f01-8e77-4136-8e85-b0f0d9d08f1d@jp007.421421.xyz:20230?allowInsecure=1&peer=www.alibaba.com&sni=www.alibaba.com&type=ws#%E6%97%A5%E6%9C%AC07
-ss://35.180.71.217:443
-ss://3.147.127.17:443
-ss://3.14.249.239:443
-ss://51.44.82.245:443
-ss://15.237.74.149:443
-ss://15.237.220.24:443
-ss://15.236.43.191:443
-ss://3.142.134.224:443
