@@ -19,6 +19,7 @@ ss://YWVzLTI1Ni1nY206Y2ZlNjg1NzI2ZWVhMmM0YkA0Ni4yOS4xNjMuMjMyOjUwMTI5#%E8%8B%B1%
 ss://YWVzLTI1Ni1nY206N2UxZGQ0YzU1YmY4NWRhNUAyMTIuMTkyLjE1LjE3MjozMDEyOQ==#%E9%A6%99%E6%B8%AF22
 ss://YWVzLTI1Ni1nY206YjI0YTgwZTc5Y2VlMWQxZkA0Ni4yOS4xNjMuMTc2OjIwMTI5#%E4%BF%84%E7%BD%97%E6%96%AF23
 ss://YWVzLTI1Ni1nY206MjgwMzM2MWQ2YzE5NmFmOEAxNjYuMS4yMjguMTg1OjYwMTI5#%E5%8A%A0%E6%8B%BF%E5%A4%A724
+vless://47072f01-8e77-4136-8e85-b0f0d9d08f1d@jp001.421421.xyz:20230?type=grpc&encryption=none&host=&path=&headerType=none&quicSecurity=none&serviceName=tj&security=reality&fp=firefox&insecure=0&sni=www.nvidia.com&pbk=opaO8sUF9JU5hP2wRoUgS6aWxFLfen83in6ZWJMonG4&sid=b92b2a09#%E6%97%A5%E6%9C%AC01
 vless://47072f01-8e77-4136-8e85-b0f0d9d08f1d@jp002.421421.xyz:20230?type=grpc&encryption=none&host=&path=&headerType=none&quicSecurity=none&serviceName=tj&security=reality&fp=firefox&insecure=0&sni=www.nvidia.com&pbk=yNOemxnmT-HQ2HiR9fdHSN2B8HpHsRyMIsir_iAlaHE&sid=5c3c9f11#%E6%97%A5%E6%9C%AC02
 vless://47072f01-8e77-4136-8e85-b0f0d9d08f1d@jp003.421421.xyz:20230?type=grpc&encryption=none&host=&path=&headerType=none&quicSecurity=none&serviceName=tj&security=reality&fp=firefox&insecure=0&sni=www.nvidia.com&pbk=4DQqVav-gK4Y1cMDDt4qyVpQf0GB6NkPgCPnjwude3c&sid=d3b6f0c3#%E6%97%A5%E6%9C%AC03
 vless://47072f01-8e77-4136-8e85-b0f0d9d08f1d@jp004.421421.xyz:20230?type=grpc&encryption=none&host=&path=&headerType=none&quicSecurity=none&serviceName=tj&security=reality&fp=firefox&insecure=0&sni=www.nvidia.com&pbk=lbOfuIKCBPcQH4AEnwnPw1LNxWrl-Bul6KU99H240Fc&sid=abae4722#%E6%97%A5%E6%9C%AC04
@@ -27,3 +28,5 @@ vless://47072f01-8e77-4136-8e85-b0f0d9d08f1d@us002.421421.xyz:20230?type=grpc&en
 trojan://47072f01-8e77-4136-8e85-b0f0d9d08f1d@sg007.421421.xyz:20230?allowInsecure=1&peer=www.alibaba.com&sni=www.alibaba.com&type=ws#%E6%96%B0%E5%8A%A0%E5%9D%A107%7C%E6%B5%81%E5%AA%92%E4%BD%93
 trojan://47072f01-8e77-4136-8e85-b0f0d9d08f1d@sg008.421421.xyz:20230?allowInsecure=1&peer=www.alibaba.com&sni=www.alibaba.com&type=ws#%E6%96%B0%E5%8A%A0%E5%9D%A108%7C%E6%B5%81%E5%AA%92%E4%BD%93
 trojan://47072f01-8e77-4136-8e85-b0f0d9d08f1d@jp007.421421.xyz:20230?allowInsecure=1&peer=www.alibaba.com&sni=www.alibaba.com&type=ws#%E6%97%A5%E6%9C%AC07
+trojan://47072f01-8e77-4136-8e85-b0f0d9d08f1d@us003.421421.xyz:20230?allowInsecure=1&peer=www.alibaba.com&sni=www.alibaba.com&type=ws#%E7%BE%8E%E5%9B%BD03
+trojan://47072f01-8e77-4136-8e85-b0f0d9d08f1d@us004.421421.xyz:20230?allowInsecure=1&peer=www.alibaba.com&sni=www.alibaba.com&type=ws#%E7%BE%8E%E5%9B%BD04
