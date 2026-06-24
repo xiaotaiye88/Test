@@ -11,8 +11,11 @@ ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVAMTMuMzYuMTc0LjMyOjQ0Mw==#%E6%96%B0%E5%8A%A0
 ss://YWVzLTI1Ni1nY206MzJjMGVhNmU4MjMzNDFhMkA0Ni4xNy40My4xNDc6MzIzMjQ=#%E7%BE%8E%E5%9B%BD10
 ss://YWVzLTI1Ni1nY206Q1B4Q3NpOTZDSEd0QDIxMi4xOTIuMTMuMTcyOjgzODg=#%E9%A6%99%E6%B8%AF13
 ss://YWVzLTI1Ni1nY206YzVmY2RmNzgyOTExMmNiNEA0Ni4xNy40MC44NToyNDIxMw==#%E5%8F%B0%E6%B9%BE14
+ss://YWVzLTI1Ni1nY206ZmJhZjMzYmNmZmU1M2NmOUAxNzYuMzIuMzkuOTY6NjQyMzE=#%E6%B3%95%E5%9B%BD15
 ss://YWVzLTI1Ni1nY206IDY1MTIwMzA5NjE0NzNmMjFAMTg1LjE5OC4yMzUuMjA4OjIwMTI5#%E6%84%8F%E5%A4%A7%E5%88%A919
 ss://YWVzLTI1Ni1nY206MjgwMzM2MWQ2YzE5NmFmOEAxNjYuMS4yMjguMTg1OjYwMTI5#%E5%8A%A0%E6%8B%BF%E5%A4%A724
+vless://47072f01-8e77-4136-8e85-b0f0d9d08f1d@sg001.421421.xyz:20230?type=grpc&encryption=none&host=&path=&headerType=none&quicSecurity=none&serviceName=tj&security=reality&fp=firefox&insecure=0&sni=aws.amazon.com&pbk=WEttTimK6Q9qB8cd2AQ8kyDJOVfKAlPIl5E1T7-q0Dw&sid=1afbe06d#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A3257.75%20GB
+vless://47072f01-8e77-4136-8e85-b0f0d9d08f1d@sg002.421421.xyz:20230?type=grpc&encryption=none&host=&path=&headerType=none&quicSecurity=none&serviceName=tj&security=reality&fp=firefox&insecure=0&sni=aws.amazon.com&pbk=1cs7mxEcoVKwcYepAnKgqHAFhRxPv6aO3tv7lNhwLDQ&sid=46bf6ea0#%E6%96%B0%E5%8A%A0%E5%9D%A102%7C%E6%B5%81%E5%AA%92%E4%BD%93
 vless://47072f01-8e77-4136-8e85-b0f0d9d08f1d@sg003.421421.xyz:20230?type=grpc&encryption=none&host=&path=&headerType=none&quicSecurity=none&serviceName=tj&security=reality&fp=firefox&insecure=0&sni=aws.amazon.com&pbk=hBXQa1tSoP0jjIezHxeyKhf1YKxe8CoBHoxvIxEJuAc&sid=2c5ecaae#%E6%96%B0%E5%8A%A0%E5%9D%A103%7C%E6%B5%81%E5%AA%92%E4%BD%93
 vless://47072f01-8e77-4136-8e85-b0f0d9d08f1d@jp001.421421.xyz:20230?type=grpc&encryption=none&host=&path=&headerType=none&quicSecurity=none&serviceName=tj&security=reality&fp=firefox&insecure=0&sni=www.nvidia.com&pbk=opaO8sUF9JU5hP2wRoUgS6aWxFLfen83in6ZWJMonG4&sid=b92b2a09#%E6%97%A5%E6%9C%AC01
 vless://47072f01-8e77-4136-8e85-b0f0d9d08f1d@jp002.421421.xyz:20230?type=grpc&encryption=none&host=&path=&headerType=none&quicSecurity=none&serviceName=tj&security=reality&fp=firefox&insecure=0&sni=www.nvidia.com&pbk=yNOemxnmT-HQ2HiR9fdHSN2B8HpHsRyMIsir_iAlaHE&sid=5c3c9f11#%E6%97%A5%E6%9C%AC02
@@ -24,7 +27,6 @@ trojan://47072f01-8e77-4136-8e85-b0f0d9d08f1d@sg007.421421.xyz:20230?allowInsecu
 trojan://47072f01-8e77-4136-8e85-b0f0d9d08f1d@sg008.421421.xyz:20230?allowInsecure=1&peer=www.alibaba.com&sni=www.alibaba.com&type=ws#%E6%96%B0%E5%8A%A0%E5%9D%A108%7C%E6%B5%81%E5%AA%92%E4%BD%93
 trojan://47072f01-8e77-4136-8e85-b0f0d9d08f1d@jp007.421421.xyz:20230?allowInsecure=1&peer=www.alibaba.com&sni=www.alibaba.com&type=ws#%E6%97%A5%E6%9C%AC07
 trojan://47072f01-8e77-4136-8e85-b0f0d9d08f1d@jp008.421421.xyz:20230?allowInsecure=1&peer=www.alibaba.com&sni=www.alibaba.com&type=ws#%E6%97%A5%E6%9C%AC08
-trojan://47072f01-8e77-4136-8e85-b0f0d9d08f1d@us004.421421.xyz:20230?allowInsecure=1&peer=www.alibaba.com&sni=www.alibaba.com&type=ws#%E7%BE%8E%E5%9B%BD04
 ss://13.36.234.120:443
 ss://47.89.230.221:80
 ss://47.77.191.92:80
