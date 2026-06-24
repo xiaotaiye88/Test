@@ -26,6 +26,7 @@ trojan://47072f01-8e77-4136-8e85-b0f0d9d08f1d@sg008.421421.xyz:20230?allowInsecu
 trojan://47072f01-8e77-4136-8e85-b0f0d9d08f1d@jp007.421421.xyz:20230?allowInsecure=1&peer=www.alibaba.com&sni=www.alibaba.com&type=ws#%E6%97%A5%E6%9C%AC07
 trojan://47072f01-8e77-4136-8e85-b0f0d9d08f1d@jp008.421421.xyz:20230?allowInsecure=1&peer=www.alibaba.com&sni=www.alibaba.com&type=ws#%E6%97%A5%E6%9C%AC08
 trojan://47072f01-8e77-4136-8e85-b0f0d9d08f1d@us003.421421.xyz:20230?allowInsecure=1&peer=www.alibaba.com&sni=www.alibaba.com&type=ws#%E7%BE%8E%E5%9B%BD03
+trojan://47072f01-8e77-4136-8e85-b0f0d9d08f1d@us004.421421.xyz:20230?allowInsecure=1&peer=www.alibaba.com&sni=www.alibaba.com&type=ws#%E7%BE%8E%E5%9B%BD04
 ss://35.180.229.83:443
 ss://18.118.140.96:443
 ss://3.147.78.9:443
