@@ -8,7 +8,6 @@ ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVAMTUuMjM3Ljc0LjE0OTo0NDM=#%E9%9F%A9%E5%9B%BD
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVAMTMuMzcuMjM5LjIzOjQ0Mw==#%E5%8F%B0%E6%B9%BE7
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVAMTUuMjM2LjM3LjEyNTo0NDM=#%E6%97%A5%E6%9C%AC8
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVAMTUuMTg4Ljc0LjEwMTo0NDM=#%E6%96%B0%E5%8A%A0%E5%9D%A19
-ss://YWVzLTI1Ni1nY206MzJjMGVhNmU4MjMzNDFhMkA0Ni4xNy40My4xNDc6MzIzMjQ=#%E7%BE%8E%E5%9B%BD10
 ss://YWVzLTI1Ni1nY206Q1B4Q3NpOTZDSEd0QDIxMi4xOTIuMTMuMTcyOjgzODg=#%E9%A6%99%E6%B8%AF13
 ss://YWVzLTI1Ni1nY206YzVmY2RmNzgyOTExMmNiNEA0Ni4xNy40MC44NToyNDIxMw==#%E5%8F%B0%E6%B9%BE14
 ss://YWVzLTI1Ni1nY206ZmJhZjMzYmNmZmU1M2NmOUAxNzYuMzIuMzkuOTY6NjQyMzE=#%E6%B3%95%E5%9B%BD15
@@ -23,6 +22,9 @@ vless://47072f01-8e77-4136-8e85-b0f0d9d08f1d@us001.421421.xyz:20230?type=grpc&en
 vless://47072f01-8e77-4136-8e85-b0f0d9d08f1d@us002.421421.xyz:20230?type=grpc&encryption=none&host=&path=&headerType=none&quicSecurity=none&serviceName=tj&security=reality&fp=firefox&insecure=0&sni=www.nvidia.com&pbk=Bq_RQyPwxp7zTYywC37jLxmcjV9npNN6H6_1d_R6GT0&sid=c9916730#%E7%BE%8E%E5%9B%BD02
 trojan://47072f01-8e77-4136-8e85-b0f0d9d08f1d@sg007.421421.xyz:20230?allowInsecure=1&peer=www.alibaba.com&sni=www.alibaba.com&type=ws#%E6%96%B0%E5%8A%A0%E5%9D%A107%7C%E6%B5%81%E5%AA%92%E4%BD%93
 trojan://47072f01-8e77-4136-8e85-b0f0d9d08f1d@sg008.421421.xyz:20230?allowInsecure=1&peer=www.alibaba.com&sni=www.alibaba.com&type=ws#%E6%96%B0%E5%8A%A0%E5%9D%A108%7C%E6%B5%81%E5%AA%92%E4%BD%93
+trojan://47072f01-8e77-4136-8e85-b0f0d9d08f1d@jp007.421421.xyz:20230?allowInsecure=1&peer=www.alibaba.com&sni=www.alibaba.com&type=ws#%E6%97%A5%E6%9C%AC07
+trojan://47072f01-8e77-4136-8e85-b0f0d9d08f1d@jp008.421421.xyz:20230?allowInsecure=1&peer=www.alibaba.com&sni=www.alibaba.com&type=ws#%E6%97%A5%E6%9C%AC08
+trojan://47072f01-8e77-4136-8e85-b0f0d9d08f1d@us003.421421.xyz:20230?allowInsecure=1&peer=www.alibaba.com&sni=www.alibaba.com&type=ws#%E7%BE%8E%E5%9B%BD03
 trojan://47072f01-8e77-4136-8e85-b0f0d9d08f1d@us004.421421.xyz:20230?allowInsecure=1&peer=www.alibaba.com&sni=www.alibaba.com&type=ws#%E7%BE%8E%E5%9B%BD04
 ss://51.44.163.40:443
 ss://18.188.42.241:443
