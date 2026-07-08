@@ -45,6 +45,7 @@ vless://3c98dea9-05f9-4aa8-8e37-ed643ff3cb8b@216.152.156.83:443?security=reality
 vless://3c98dea9-05f9-4aa8-8e37-ed643ff3cb8b@216.106.185.163:443?security=reality&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&pbk=QK-hDi9g1k5J9Rsc5qi7xQBE9gQO5MmhCr3ScMVr5zY#USA - Silicon Valley 2🇺🇸
 vless://3c98dea9-05f9-4aa8-8e37-ed643ff3cb8b@216.152.155.231:443?security=reality&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&pbk=QK-hDi9g1k5J9Rsc5qi7xQBE9gQO5MmhCr3ScMVr5zY#USA - Chicago 2🇺🇸
 vless://3c98dea9-05f9-4aa8-8e37-ed643ff3cb8b@170.101.101.236:443?security=reality&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&pbk=QK-hDi9g1k5J9Rsc5qi7xQBE9gQO5MmhCr3ScMVr5zY#USA - Detroit🇺🇸
+vless://3c98dea9-05f9-4aa8-8e37-ed643ff3cb8b@216.152.148.58:443?security=reality&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&pbk=QK-hDi9g1k5J9Rsc5qi7xQBE9gQO5MmhCr3ScMVr5zY#USA - Seattle🇺🇸
 vless://3c98dea9-05f9-4aa8-8e37-ed643ff3cb8b@166.0.18.169:443?security=reality&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&pbk=QK-hDi9g1k5J9Rsc5qi7xQBE9gQO5MmhCr3ScMVr5zY#USA - Salt Lake City🇺🇸
 vless://3c98dea9-05f9-4aa8-8e37-ed643ff3cb8b@103.145.107.242:443?security=reality&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&pbk=QK-hDi9g1k5J9Rsc5qi7xQBE9gQO5MmhCr3ScMVr5zY#Hong Kong 2🇭🇰
 vless://3c98dea9-05f9-4aa8-8e37-ed643ff3cb8b@185.200.66.253:443?security=reality&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&pbk=QK-hDi9g1k5J9Rsc5qi7xQBE9gQO5MmhCr3ScMVr5zY#Japan - Tokyo V5🇯🇵
@@ -58,6 +59,7 @@ shadowtls://00f8ea65-bdd1-41dd-910c-c0841f5627c5@166.88.159.59:8443?security=sha
 shadowtls://00f8ea65-bdd1-41dd-910c-c0841f5627c5@194.135.104.172:8443?security=shadowtls&encryption=none&flow=&sni=&fp=chrome&pbk=#USA - Dallas 1 [ST]🇺🇸
 shadowtls://00f8ea65-bdd1-41dd-910c-c0841f5627c5@209.141.34.55:8443?security=shadowtls&encryption=none&flow=&sni=&fp=chrome&pbk=#USA - Las Vegas [ST]🇺🇸
 shadowtls://00f8ea65-bdd1-41dd-910c-c0841f5627c5@142.248.139.111:8443?security=shadowtls&encryption=none&flow=&sni=&fp=chrome&pbk=#Japan - Tokyo 8 [ST]🇯🇵
+shadowtls://00f8ea65-bdd1-41dd-910c-c0841f5627c5@185.239.71.220:8443?security=shadowtls&encryption=none&flow=&sni=&fp=chrome&pbk=#Netherlands 2 [ST]🇳🇱
 shadowtls://00f8ea65-bdd1-41dd-910c-c0841f5627c5@51.241.150.205:8443?security=shadowtls&encryption=none&flow=&sni=&fp=chrome&pbk=#UK London 2 [ST]🇬🇧
 shadowtls://00f8ea65-bdd1-41dd-910c-c0841f5627c5@154.205.140.149:8443?security=shadowtls&encryption=none&flow=&sni=&fp=chrome&pbk=#Vietnam 1 [ST]🇻🇳
 shadowtls://00f8ea65-bdd1-41dd-910c-c0841f5627c5@130.94.58.229:8443?security=shadowtls&encryption=none&flow=&sni=&fp=chrome&pbk=#Saudi Arabia 1 [ST]🇸🇦
