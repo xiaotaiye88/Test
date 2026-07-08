@@ -146,7 +146,6 @@ anytls://@38.180.199.161:9443?security=tls&encryption=none&flow=&sni=www.apple.c
 anytls://@172.86.108.119:9443?security=tls&encryption=none&flow=&sni=www.apple.com&fp=chrome&pbk=#USA - New York 4 [AnyTLS]🇺🇸
 anytls://@38.244.150.92:9443?security=tls&encryption=none&flow=&sni=www.apple.com&fp=chrome&pbk=#Thailand 2 [AnyTLS]🇹🇭
 anytls://@169.197.142.206:9443?security=tls&encryption=none&flow=&sni=www.apple.com&fp=chrome&pbk=#USA - Silicon Valley 1 [AnyTLS]🇺🇸
-anytls://@216.152.156.83:9443?security=tls&encryption=none&flow=&sni=www.apple.com&fp=chrome&pbk=#USA - Atlanta [AnyTLS]🇺🇸
 anytls://@216.106.185.163:9443?security=tls&encryption=none&flow=&sni=www.apple.com&fp=chrome&pbk=#USA - Silicon Valley 2 [AnyTLS]🇺🇸
 anytls://@216.152.155.231:9443?security=tls&encryption=none&flow=&sni=www.apple.com&fp=chrome&pbk=#USA - Chicago 2 [AnyTLS]🇺🇸
 anytls://@170.101.101.236:9443?security=tls&encryption=none&flow=&sni=www.apple.com&fp=chrome&pbk=#USA - Detroit [AnyTLS]🇺🇸
