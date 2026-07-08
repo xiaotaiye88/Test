@@ -93,7 +93,6 @@ shadowtls://00f8ea65-bdd1-41dd-910c-c0841f5627c5@38.180.199.161:8443?security=sh
 shadowtls://00f8ea65-bdd1-41dd-910c-c0841f5627c5@172.86.108.119:8443?security=shadowtls&encryption=none&flow=&sni=&fp=chrome&pbk=#USA - New York 4 [ST]🇺🇸
 shadowtls://00f8ea65-bdd1-41dd-910c-c0841f5627c5@38.244.150.92:8443?security=shadowtls&encryption=none&flow=&sni=&fp=chrome&pbk=#Thailand 2 [ST]🇹🇭
 shadowtls://00f8ea65-bdd1-41dd-910c-c0841f5627c5@169.197.142.206:8443?security=shadowtls&encryption=none&flow=&sni=&fp=chrome&pbk=#USA - Silicon Valley 1 [ST]🇺🇸
-shadowtls://00f8ea65-bdd1-41dd-910c-c0841f5627c5@216.152.156.83:8443?security=shadowtls&encryption=none&flow=&sni=&fp=chrome&pbk=#USA - Atlanta [ST]🇺🇸
 shadowtls://00f8ea65-bdd1-41dd-910c-c0841f5627c5@216.106.185.163:8443?security=shadowtls&encryption=none&flow=&sni=&fp=chrome&pbk=#USA - Silicon Valley 2 [ST]🇺🇸
 shadowtls://00f8ea65-bdd1-41dd-910c-c0841f5627c5@216.152.155.231:8443?security=shadowtls&encryption=none&flow=&sni=&fp=chrome&pbk=#USA - Chicago 2 [ST]🇺🇸
 shadowtls://00f8ea65-bdd1-41dd-910c-c0841f5627c5@170.101.101.236:8443?security=shadowtls&encryption=none&flow=&sni=&fp=chrome&pbk=#USA - Detroit [ST]🇺🇸
@@ -145,7 +144,6 @@ anytls://@38.180.199.161:9443?security=tls&encryption=none&flow=&sni=www.apple.c
 anytls://@172.86.108.119:9443?security=tls&encryption=none&flow=&sni=www.apple.com&fp=chrome&pbk=#USA - New York 4 [AnyTLS]🇺🇸
 anytls://@38.244.150.92:9443?security=tls&encryption=none&flow=&sni=www.apple.com&fp=chrome&pbk=#Thailand 2 [AnyTLS]🇹🇭
 anytls://@169.197.142.206:9443?security=tls&encryption=none&flow=&sni=www.apple.com&fp=chrome&pbk=#USA - Silicon Valley 1 [AnyTLS]🇺🇸
-anytls://@216.152.156.83:9443?security=tls&encryption=none&flow=&sni=www.apple.com&fp=chrome&pbk=#USA - Atlanta [AnyTLS]🇺🇸
 anytls://@216.106.185.163:9443?security=tls&encryption=none&flow=&sni=www.apple.com&fp=chrome&pbk=#USA - Silicon Valley 2 [AnyTLS]🇺🇸
 anytls://@216.152.155.231:9443?security=tls&encryption=none&flow=&sni=www.apple.com&fp=chrome&pbk=#USA - Chicago 2 [AnyTLS]🇺🇸
 anytls://@170.101.101.236:9443?security=tls&encryption=none&flow=&sni=www.apple.com&fp=chrome&pbk=#USA - Detroit [AnyTLS]🇺🇸
