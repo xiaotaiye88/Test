@@ -18,7 +18,6 @@ vless://032f3160-740a-4617-b2f1-04e09d10a0c6@104.244.91.92:443?security=reality&
 vless://032f3160-740a-4617-b2f1-04e09d10a0c6@38.47.238.223:443?security=reality&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&pbk=QK-hDi9g1k5J9Rsc5qi7xQBE9gQO5MmhCr3ScMVr5zY#USA - Los Angeles 3🇺🇸
 vless://032f3160-740a-4617-b2f1-04e09d10a0c6@38.47.227.58:443?security=reality&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&pbk=QK-hDi9g1k5J9Rsc5qi7xQBE9gQO5MmhCr3ScMVr5zY#Singapore 2🇸🇬
 vless://032f3160-740a-4617-b2f1-04e09d10a0c6@104.143.38.38:443?security=reality&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&pbk=QK-hDi9g1k5J9Rsc5qi7xQBE9gQO5MmhCr3ScMVr5zY#Hong Kong 6🇭🇰
-vless://032f3160-740a-4617-b2f1-04e09d10a0c6@162.141.130.112:443?security=reality&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&pbk=QK-hDi9g1k5J9Rsc5qi7xQBE9gQO5MmhCr3ScMVr5zY#Japan - Tokyo 2🇯🇵
 vless://032f3160-740a-4617-b2f1-04e09d10a0c6@162.141.131.28:443?security=reality&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&pbk=QK-hDi9g1k5J9Rsc5qi7xQBE9gQO5MmhCr3ScMVr5zY#Japan - Tokyo 1🇯🇵
 vless://032f3160-740a-4617-b2f1-04e09d10a0c6@207.56.226.124:443?security=reality&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&pbk=QK-hDi9g1k5J9Rsc5qi7xQBE9gQO5MmhCr3ScMVr5zY#Japan - Tokyo 4🇯🇵
 vless://032f3160-740a-4617-b2f1-04e09d10a0c6@221.128.249.116:443?security=reality&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&pbk=QK-hDi9g1k5J9Rsc5qi7xQBE9gQO5MmhCr3ScMVr5zY#Hong Kong 3🇭🇰
@@ -109,7 +108,6 @@ anytls://@108.165.176.152:9443?security=tls&encryption=none&flow=&sni=www.apple.
 anytls://@50.114.177.161:9443?security=tls&encryption=none&flow=&sni=www.apple.com&fp=chrome&pbk=#Canada 1 [AnyTLS]🇨🇦
 anytls://@23.26.124.171:9443?security=tls&encryption=none&flow=&sni=www.apple.com&fp=chrome&pbk=#USA - New York 2 [AnyTLS]🇺🇸
 anytls://@166.88.159.59:9443?security=tls&encryption=none&flow=&sni=www.apple.com&fp=chrome&pbk=#USA - Chicago 1 [AnyTLS]🇺🇸
-anytls://@194.135.104.172:9443?security=tls&encryption=none&flow=&sni=www.apple.com&fp=chrome&pbk=#USA - Dallas 1 [AnyTLS]🇺🇸
 anytls://@209.141.34.55:9443?security=tls&encryption=none&flow=&sni=www.apple.com&fp=chrome&pbk=#USA - Las Vegas [AnyTLS]🇺🇸
 anytls://@142.248.139.111:9443?security=tls&encryption=none&flow=&sni=www.apple.com&fp=chrome&pbk=#Japan - Tokyo 8 [AnyTLS]🇯🇵
 anytls://@185.239.71.220:9443?security=tls&encryption=none&flow=&sni=www.apple.com&fp=chrome&pbk=#Netherlands 2 [AnyTLS]🇳🇱
