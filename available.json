@@ -48,7 +48,6 @@ vless://e0fb868c-f443-4df3-a053-5652cd3b98c0@216.106.185.163:443?security=realit
 vless://e0fb868c-f443-4df3-a053-5652cd3b98c0@216.152.149.236:443?security=reality&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&pbk=QK-hDi9g1k5J9Rsc5qi7xQBE9gQO5MmhCr3ScMVr5zY#USA - New York 5🇺🇸
 vless://e0fb868c-f443-4df3-a053-5652cd3b98c0@216.152.155.231:443?security=reality&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&pbk=QK-hDi9g1k5J9Rsc5qi7xQBE9gQO5MmhCr3ScMVr5zY#USA - Chicago 2🇺🇸
 vless://e0fb868c-f443-4df3-a053-5652cd3b98c0@170.101.101.236:443?security=reality&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&pbk=QK-hDi9g1k5J9Rsc5qi7xQBE9gQO5MmhCr3ScMVr5zY#USA - Detroit🇺🇸
-vless://e0fb868c-f443-4df3-a053-5652cd3b98c0@216.152.148.58:443?security=reality&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&pbk=QK-hDi9g1k5J9Rsc5qi7xQBE9gQO5MmhCr3ScMVr5zY#USA - Seattle🇺🇸
 vless://e0fb868c-f443-4df3-a053-5652cd3b98c0@166.0.18.169:443?security=reality&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&pbk=QK-hDi9g1k5J9Rsc5qi7xQBE9gQO5MmhCr3ScMVr5zY#USA - Salt Lake City🇺🇸
 vless://e0fb868c-f443-4df3-a053-5652cd3b98c0@103.145.107.242:443?security=reality&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&pbk=QK-hDi9g1k5J9Rsc5qi7xQBE9gQO5MmhCr3ScMVr5zY#Hong Kong 2🇭🇰
 vless://e0fb868c-f443-4df3-a053-5652cd3b98c0@185.200.66.253:443?security=reality&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&pbk=QK-hDi9g1k5J9Rsc5qi7xQBE9gQO5MmhCr3ScMVr5zY#Japan - Tokyo V5🇯🇵
@@ -59,7 +58,6 @@ shadowtls://00f8ea65-bdd1-41dd-910c-c0841f5627c5@108.165.176.152:8443?security=s
 shadowtls://00f8ea65-bdd1-41dd-910c-c0841f5627c5@50.114.177.161:8443?security=shadowtls&encryption=none&flow=&sni=&fp=chrome&pbk=#Canada 1 [ST]🇨🇦
 shadowtls://00f8ea65-bdd1-41dd-910c-c0841f5627c5@23.26.124.171:8443?security=shadowtls&encryption=none&flow=&sni=&fp=chrome&pbk=#USA - New York 2 [ST]🇺🇸
 shadowtls://00f8ea65-bdd1-41dd-910c-c0841f5627c5@166.88.159.59:8443?security=shadowtls&encryption=none&flow=&sni=&fp=chrome&pbk=#USA - Chicago 1 [ST]🇺🇸
-shadowtls://00f8ea65-bdd1-41dd-910c-c0841f5627c5@194.135.104.172:8443?security=shadowtls&encryption=none&flow=&sni=&fp=chrome&pbk=#USA - Dallas 1 [ST]🇺🇸
 shadowtls://00f8ea65-bdd1-41dd-910c-c0841f5627c5@209.141.34.55:8443?security=shadowtls&encryption=none&flow=&sni=&fp=chrome&pbk=#USA - Las Vegas [ST]🇺🇸
 shadowtls://00f8ea65-bdd1-41dd-910c-c0841f5627c5@142.248.139.111:8443?security=shadowtls&encryption=none&flow=&sni=&fp=chrome&pbk=#Japan - Tokyo 8 [ST]🇯🇵
 shadowtls://00f8ea65-bdd1-41dd-910c-c0841f5627c5@185.239.71.220:8443?security=shadowtls&encryption=none&flow=&sni=&fp=chrome&pbk=#Netherlands 2 [ST]🇳🇱
@@ -102,7 +100,6 @@ shadowtls://00f8ea65-bdd1-41dd-910c-c0841f5627c5@216.106.185.163:8443?security=s
 shadowtls://00f8ea65-bdd1-41dd-910c-c0841f5627c5@216.152.149.236:8443?security=shadowtls&encryption=none&flow=&sni=&fp=chrome&pbk=#USA - New York 5 [ST]🇺🇸
 shadowtls://00f8ea65-bdd1-41dd-910c-c0841f5627c5@216.152.155.231:8443?security=shadowtls&encryption=none&flow=&sni=&fp=chrome&pbk=#USA - Chicago 2 [ST]🇺🇸
 shadowtls://00f8ea65-bdd1-41dd-910c-c0841f5627c5@170.101.101.236:8443?security=shadowtls&encryption=none&flow=&sni=&fp=chrome&pbk=#USA - Detroit [ST]🇺🇸
-shadowtls://00f8ea65-bdd1-41dd-910c-c0841f5627c5@216.152.148.58:8443?security=shadowtls&encryption=none&flow=&sni=&fp=chrome&pbk=#USA - Seattle [ST]🇺🇸
 shadowtls://00f8ea65-bdd1-41dd-910c-c0841f5627c5@166.0.18.169:8443?security=shadowtls&encryption=none&flow=&sni=&fp=chrome&pbk=#USA - Salt Lake City [ST]🇺🇸
 shadowtls://00f8ea65-bdd1-41dd-910c-c0841f5627c5@103.145.107.242:8443?security=shadowtls&encryption=none&flow=&sni=&fp=chrome&pbk=#Hong Kong 2 [ST]🇭🇰
 shadowtls://00f8ea65-bdd1-41dd-910c-c0841f5627c5@185.200.66.253:8443?security=shadowtls&encryption=none&flow=&sni=&fp=chrome&pbk=#Japan - Tokyo V5 [ST]🇯🇵
@@ -111,6 +108,7 @@ anytls://@45.131.153.161:9443?security=tls&encryption=none&flow=&sni=www.apple.c
 anytls://@155.117.148.67:9443?security=tls&encryption=none&flow=&sni=www.apple.com&fp=chrome&pbk=#Korea 1 [AnyTLS]🇰🇷
 anytls://@108.165.176.152:9443?security=tls&encryption=none&flow=&sni=www.apple.com&fp=chrome&pbk=#USA - New York 1 [AnyTLS]🇺🇸
 anytls://@50.114.177.161:9443?security=tls&encryption=none&flow=&sni=www.apple.com&fp=chrome&pbk=#Canada 1 [AnyTLS]🇨🇦
+anytls://@23.26.124.171:9443?security=tls&encryption=none&flow=&sni=www.apple.com&fp=chrome&pbk=#USA - New York 2 [AnyTLS]🇺🇸
 anytls://@166.88.159.59:9443?security=tls&encryption=none&flow=&sni=www.apple.com&fp=chrome&pbk=#USA - Chicago 1 [AnyTLS]🇺🇸
 anytls://@194.135.104.172:9443?security=tls&encryption=none&flow=&sni=www.apple.com&fp=chrome&pbk=#USA - Dallas 1 [AnyTLS]🇺🇸
 anytls://@209.141.34.55:9443?security=tls&encryption=none&flow=&sni=www.apple.com&fp=chrome&pbk=#USA - Las Vegas [AnyTLS]🇺🇸
@@ -155,7 +153,6 @@ anytls://@216.106.185.163:9443?security=tls&encryption=none&flow=&sni=www.apple.
 anytls://@216.152.149.236:9443?security=tls&encryption=none&flow=&sni=www.apple.com&fp=chrome&pbk=#USA - New York 5 [AnyTLS]🇺🇸
 anytls://@216.152.155.231:9443?security=tls&encryption=none&flow=&sni=www.apple.com&fp=chrome&pbk=#USA - Chicago 2 [AnyTLS]🇺🇸
 anytls://@170.101.101.236:9443?security=tls&encryption=none&flow=&sni=www.apple.com&fp=chrome&pbk=#USA - Detroit [AnyTLS]🇺🇸
-anytls://@216.152.148.58:9443?security=tls&encryption=none&flow=&sni=www.apple.com&fp=chrome&pbk=#USA - Seattle [AnyTLS]🇺🇸
 anytls://@166.0.18.169:9443?security=tls&encryption=none&flow=&sni=www.apple.com&fp=chrome&pbk=#USA - Salt Lake City [AnyTLS]🇺🇸
 anytls://@103.145.107.242:9443?security=tls&encryption=none&flow=&sni=www.apple.com&fp=chrome&pbk=#Hong Kong 2 [AnyTLS]🇭🇰
 anytls://@185.200.66.253:9443?security=tls&encryption=none&flow=&sni=www.apple.com&fp=chrome&pbk=#Japan - Tokyo V5 [AnyTLS]🇯🇵
