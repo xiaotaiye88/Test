@@ -1,6 +1,5 @@
 /**************************
- * 京东 wskey 抓取 (Quantumult X)
- * 抓 api.m.jd.com 请求里的 pin + wskey，推到 ntfy
+ * 京东 wskey 抓取 (Quantumult X) - 带调试
  *
  * 重写规则 (在 [rewrite_local] 添加):
  * ^https?:\/\/api\.m\.jd\.com url script-request-header https://raw.githubusercontent.com/xiaotaiye88/Test/main/qx_jd_wskey.js
@@ -10,6 +9,32 @@
 
 const NTFY_URL = "https://ntfy.sh/HzjHy2codes";
 
+// === 调试：脚本每次运行都推一次到 ntfy（dedup，只推前3次） ===
+try {
+  const dbgKey = "qxjd_debug_count";
+  let cnt = 0;
+  if (typeof $persistentStore !== "undefined") {
+    cnt = parseInt($persistentStore.read(dbgKey) || "0");
+    if (cnt < 3) {
+      $persistentStore.write(String(cnt + 1), dbgKey);
+      const c0 = $request.headers["Cookie"] || $request.headers["cookie"] || "";
+      const hasPin = /pin=/.test(c0);
+      const hasWs = /wskey=/.test(c0);
+      $httpClient.post({
+        url: NTFY_URL,
+        headers: { "Content-Type": "text/plain", Title: "QX_DEBUG" },
+        body: `脚本运行#${cnt+1} URL=${$request.url.substring(0,60)} hasPin=${hasPin} hasWskey=${hasWs} cookieLen=${c0.length}`
+      });
+      $notification.post("QX调试", `脚本运行#${cnt+1}`, `pin=${hasPin} wskey=${hasWs} cookie长度=${c0.length}`);
+    }
+  } else {
+    $notification.post("QX调试", "无persistentStore", "");
+  }
+} catch (e) {
+  $notification.post("QX调试异常", "", String(e));
+}
+
+// === 主逻辑：抓 wskey ===
 try {
   const cookie = $request.headers["Cookie"] || $request.headers["cookie"] || "";
   const pinM = cookie.match(/pin=([^;]+)/);
@@ -23,9 +48,7 @@ try {
     const key = `qxjd_${pin}_${wskey.substring(0, 16)}`;
     if (typeof $persistentStore !== "undefined") {
       const last = $persistentStore.read(key);
-      if (last) {
-        $done({});
-      } else {
+      if (!last) {
         $persistentStore.write("1", key);
         push(wskey, pin, payload);
       }
