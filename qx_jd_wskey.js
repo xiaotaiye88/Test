@@ -1,5 +1,5 @@
 /**************************
- * 京东 wskey 抓取 (Quantumult X) - 带调试
+ * 京东 wskey 抓取 (Quantumult X)
  *
  * 重写规则 (在 [rewrite_local] 添加):
  * ^https?:\/\/api\.m\.jd\.com url script-request-header https://raw.githubusercontent.com/xiaotaiye88/Test/main/qx_jd_wskey.js
@@ -9,7 +9,7 @@
 
 const NTFY_URL = "https://ntfy.sh/HzjHy2codes";
 
-// === 调试：脚本每次运行都推一次到 ntfy（dedup，只推前3次） ===
+// 调试：脚本运行时推一次到 ntfy（dedup，前3次）
 try {
   const dbgKey = "qxjd_debug_count";
   let cnt = 0;
@@ -25,16 +25,16 @@ try {
         headers: { "Content-Type": "text/plain", Title: "QX_DEBUG" },
         body: `脚本运行#${cnt+1} URL=${$request.url.substring(0,60)} hasPin=${hasPin} hasWskey=${hasWs} cookieLen=${c0.length}`
       });
-      $notification.post("QX调试", `脚本运行#${cnt+1}`, `pin=${hasPin} wskey=${hasWs} cookie长度=${c0.length}`);
+      $notify("QX调试", `脚本运行#${cnt+1}`, `pin=${hasPin} wskey=${hasWs} cookie长度=${c0.length}`);
     }
   } else {
-    $notification.post("QX调试", "无persistentStore", "");
+    $notify("QX调试", "无persistentStore", "");
   }
 } catch (e) {
-  $notification.post("QX调试异常", "", String(e));
+  $notify("QX调试异常", "", String(e));
 }
 
-// === 主逻辑：抓 wskey ===
+// 主逻辑：抓 wskey
 try {
   const cookie = $request.headers["Cookie"] || $request.headers["cookie"] || "";
   const pinM = cookie.match(/pin=([^;]+)/);
@@ -57,7 +57,7 @@ try {
     }
   }
 } catch (e) {
-  $notification.post("JD抓取异常", "", String(e));
+  $notify("JD抓取异常", "", String(e));
 }
 
 function push(wskey, pin, payload) {
@@ -68,7 +68,7 @@ function push(wskey, pin, payload) {
       body: payload,
     },
     (err, resp, data) => {
-      $notification.post(
+      $notify(
         "✅ JD wskey 已抓取",
         "pin=" + pin,
         "wskey=" + wskey.substring(0, 30) + "..." + (err ? "  推送err:" + err : " 已推送")
